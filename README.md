@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width="100%" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp"/>
 
 # 👋 Hola, bienvenido a mi perfil de GitHub 
 
@@ -13,9 +13,9 @@
 ## ⚡ Sobre mí
 
 - 🌱 Actualmente aprendiendo desarrollo, programación y mejores prácticas.
-- 🚀 Me gustan los proyectos web, la ciberseguridad 
+- 🚀 Me gustan los proyectos web, la ciberseguridad
 - 🧠 Siempre abierto a aprender nuevas tecnologías.
-- 📫 Puedes contactarme aquí: 00038121@uca.edu.sv
+- 📫 Puedes contactarme aquí: **00038121@uca.edu.sv**
 
 ---
 
@@ -50,7 +50,7 @@
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:00038121@uca.edu.sv">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
@@ -63,10 +63,8 @@
 ## ✨ Gracias por visitar
 
 <div align="center">
-  <br>
   <p><b>Visitors Count</b></p>  
-  <img src="https://profile-counter.glitch.me/{JoseBernabe123}/count.svg"/>
-  <br>
+  <img src="https://profile-counter.glitch.me/JoseBernabe123/count.svg"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp"/>
