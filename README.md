@@ -36,11 +36,7 @@
 
 ---
 
-## 🐍 Snake Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JoseBernabe123/JoseBernabe123/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
